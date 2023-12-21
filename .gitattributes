@@ -1,0 +1,2 @@
+modelbahan.h5 filter=lfs diff=lfs merge=lfs -text
+modelmakanan.h5 filter=lfs diff=lfs merge=lfs -text
