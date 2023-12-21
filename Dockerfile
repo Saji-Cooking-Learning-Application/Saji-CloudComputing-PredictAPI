@@ -1,5 +1,5 @@
 FROM python:3.10.11
-WORKDIR /app
+WORKDIR /usr/src/app
 COPY requirements.txt .
 RUN pip install -r requirements.txt
 COPY . .
