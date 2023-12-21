@@ -4,3 +4,4 @@ tensorflow
 numpy
 mysql-connector-python
 Pillow
+python-dotenv
