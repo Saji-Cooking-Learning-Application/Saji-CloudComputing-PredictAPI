@@ -8,6 +8,9 @@ from keras.preprocessing.image import load_img, img_to_array
 from keras.models import load_model
 from keras.preprocessing import image
 import mysql.connector
+from dotenv import load_dotenv
+
+load_dotenv()
 
 app = Flask(__name__)
 
