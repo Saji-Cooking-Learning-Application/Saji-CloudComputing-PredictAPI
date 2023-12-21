@@ -1,0 +1,4 @@
+node_modules
+.venv
+modelbahan.h5
+modelmakanan.h5
